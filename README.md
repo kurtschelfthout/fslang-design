@@ -30,6 +30,5 @@ For RFCs that were implemented in F# 4.1, see the [F# 4.1 RFCs](https://github.c
 * [F# RFC FS-1021 - Support Interop with ValueTask in Async Type](https://github.com/fsharp/fslang-design/blob/master/RFCs/FS-1021-value-task-interop.md)
 * [F# RFC FS-1023 - Allow type providers to generate types from types](https://github.com/fsharp/fslang-design/blob/master/RFCs/FS-1023-type-providers-generate-types-from-types.md)
 * [F# RFC FS-1024 - Simplify call syntax for statically resolved member constraints](https://github.com/fsharp/fslang-design/blob/master/RFCs/FS-1024-simplify-call-syntax-for-statically-resolved-member-constraints.md)
-* [F# RFC FS-1025 - Improve record type inference](https://github.com/fsharp/fslang-design/blob/master/RFCs/FS-1025-improve-record-type-inference.md)
 * [F# RFC FS-1026 - Allow params dictionaries as method arguments](https://github.com/fsharp/fslang-design/blob/master/RFCs/FS-1026-allow-params-dictionaries-as-method-arguments.md)
 * [F# RFC FS-1028 - Implement Async.StartImmediateAsTask](https://github.com/fsharp/fslang-design/blob/master/RFCs/FS-1028-Implement%20Async.StartImmediateAsTask.md)
